@@ -1,4 +1,5 @@
 The Festman store data analysis was done as part of the Festman Data Hackathon and an interactive dashboard was designed using Tableau.
+
 KEY INSIGHTS:
 
 * It was observed that most of the customers have accepted the offer in the fourth ,fifth and last deal.
