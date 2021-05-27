@@ -7,10 +7,10 @@ KEY INSIGHTS:
 * Most of the customer complains were from Spain,followed by Saudi Arabia.
 * Most of the customers are from Spain,Saudi Arabia and Canada.
 * Wine and Meat products has the highest sales.
-* Maximum purchase was done from store,followed by purchase through cpmpany website.
+* Maximum purchase was done from store,followed by purchase through company's website.
 
 RECOMMENDATIONS:
 
 * Since significant number of purchase were done through company's website , company can invest more in digital marketing.
-* To increase the customer reach, marketing stratergies could be more focused on countries such as pain, Saudi Arabia, and Canada.
+* To increase the customer reach, marketing stratergies could be more focused on countries such as Spain, Saudi Arabia, and Canada.
 * Since maximum sales are accounted from the wine and meat products there would be lesser risk in investing on wine and meat products.
